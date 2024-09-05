@@ -1,9 +1,5 @@
 # Heart Problem Prediction Algorithm
 
-![GitHub last commit](https://img.shields.io/github/last-commit/alexdemirtzoglou/heart-problem-prediction)
-![GitHub issues](https://img.shields.io/github/issues/alexdemirtzoglou/heart-problem-prediction)
-![GitHub license](https://img.shields.io/github/license/alexdemirtzoglou/heart-problem-prediction)
-
 ## 🫀 Project Overview
 
 This project explores the application of the Knowledge Discovery in Databases (KDD) process to predict heart problems based on an individual's habits and health indicators. It's a semester project for the Biomedical Technology class at the University of West Attica. The goal is to develop a model that can predict the likelihood of heart problems by analyzing various factors related to a person's lifestyle and health metrics.
