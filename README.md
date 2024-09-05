@@ -32,7 +32,6 @@ This project explores the application of the Knowledge Discovery in Databases (K
 │   ├── Biomedical Technology Assignment.pdf
 │   └── heart_disease_health_indicators_BRFSS2015 (Cleaned Data Spreadsheet).csv
 ├── .gitignore
-├── LICENSE
 └── README.md
 ```
 
